@@ -1,3 +1,5 @@
+This code is associated with the paper from Chiasson et al., "Multiplexed measurement of variant abundance and activity reveals VKOR topology, active site and human variant impact". eLife, 2020. http://doi.org/10.7554/eLife.58026
+
 [![Build Status](https://travis-ci.org/debbiemarkslab/EVcouplings.svg?branch=master)](https://travis-ci.org/debbiemarkslab/EVcouplings)
 # EVcouplings
 
